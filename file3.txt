@@ -1,3 +1,0 @@
-this is the file created to check the working of the command 
- " git switch -c darkmode" which basically does nothing but creates a new branch and switches the control to it
- 
